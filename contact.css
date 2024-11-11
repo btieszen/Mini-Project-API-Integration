@@ -1,0 +1,12 @@
+h1{text-align:center;}
+
+body{
+    background:radial-gradient(circle,rgba(244, 4, 4, 0.163),rgba(247, 6, 38, 0.985));
+    }
+
+    button {
+        display: block; 
+        margin: 0 auto; 
+    }
+
+form{text-align:center;}
